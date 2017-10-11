@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ma.SafePerformer</id>
+    <version>$version$</version>
+    <title>Ma.SafePerformer</title>
+    <authors>MammadovAdil</authors>
+    <owners>MammadovAdil</owners>
+    <licenseUrl>https://github.com/MammadovAdil/SafePerformer/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MammadovAdil/SafePerformer</projectUrl>
+    <iconUrl>https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-4/52/shield__security__safety__protection-128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library to help to perform any operations safely. </description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Safe Service Continue</tags>
+  </metadata>
+</package>
